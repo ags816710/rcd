@@ -1,2 +1,0 @@
-# rcd
-Ridgeway Concepts Documentation
