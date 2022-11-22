@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Ridgeway Concepts Documentation Blog</title>
-        <link>https://ags816710.github.io/blog</link>
+        <link>https://ags816710.github.io/rcd/blog</link>
         <description>Ridgeway Concepts Documentation Blog</description>
         <lastBuildDate>Tue, 22 Nov 2022 17:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,17 +10,17 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ags816710.github.io/blog/welcome</link>
+            <link>https://ags816710.github.io/rcd/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Tue, 22 Nov 2022 17:59:24 GMT</pubDate>
             <description><![CDATA[RWCDLogo]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="RWCDLogo" src="/assets/images/rcsdBanner-58d668bfa696a2be23e0503755e13d14.png" width="1920" height="400" class="img_ev3q"></p><h2>Hello!</h2><p>Welcome to the new RWC documentation site!</p><p>Here you will find all of the current info regarding Ridgeway Concepts' opensourced APIs</p><p>I (Ally), otherwise known as ags816710 or EffortlessAlly shall be the main writer of this documentation!</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="RWCDLogo" src="/rcd/assets/images/rcsdBanner-58d668bfa696a2be23e0503755e13d14.png" width="1920" height="400" class="img_ev3q"></p><h2>Hello!</h2><p>Welcome to the new RWC documentation site!</p><p>Here you will find all of the current info regarding Ridgeway Concepts' opensourced APIs</p><p>I (Ally), otherwise known as ags816710 or EffortlessAlly shall be the main writer of this documentation!</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p>]]></content:encoded>
             <category>announcement</category>
             <category>rwc</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://ags816710.github.io/blog/mdx-blog-post</link>
+            <link>https://ags816710.github.io/rcd/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -29,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://ags816710.github.io/blog/long-blog-post</link>
+            <link>https://ags816710.github.io/rcd/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
